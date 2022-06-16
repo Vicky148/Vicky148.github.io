@@ -13,3 +13,8 @@
     height: 500px;
     object-fit: cover;
 }
+.animate__animated animate__bounce > img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+}
