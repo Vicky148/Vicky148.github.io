@@ -2,3 +2,14 @@
     height: 500px;
     object-fit: cover;
 }
+.card > img{
+    height: 500px;
+    object-fit: cover;
+}
+.card{
+    margin-top: 500px;
+}
+.item > img{
+    height: 500px;
+    object-fit: cover;
+}
